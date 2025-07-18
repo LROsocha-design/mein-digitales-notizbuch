@@ -1,0 +1,5 @@
+Maus
+Tastatur
+Bildschirm
+Akku
+Kabel
